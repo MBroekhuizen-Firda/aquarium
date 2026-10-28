@@ -1,0 +1,55 @@
+# --- Gegenereerde site (maakt tools/build_site.py) ---
+site/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# --- Unity (unity/Aquarium) ---
+unity/Aquarium/[Ll]ibrary/
+unity/Aquarium/[Tt]emp/
+unity/Aquarium/[Oo]bj/
+unity/Aquarium/[Bb]uild/
+unity/Aquarium/[Bb]uilds/
+unity/Aquarium/[Ll]ogs/
+unity/Aquarium/[Uu]ser[Ss]ettings/
+unity/Aquarium/[Mm]emoryCaptures/
+unity/Aquarium/[Rr]ecordings/
+unity/Aquarium/Assets/Plugins/Editor/JetBrains*
+unity/Aquarium/.vs/
+unity/Aquarium/.vscode/
+unity/Aquarium/.idea/
+unity/Aquarium/.gradle/
+unity/Aquarium/ExportedObj/
+unity/Aquarium/.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+*.apk
+*.aab
+*.unitypackage
+*.app
+crashlytics-build.properties
+/unity/Aquarium/[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# --- Besturingssysteem en editors ---
+.DS_Store
+Thumbs.db
+desktop.ini
