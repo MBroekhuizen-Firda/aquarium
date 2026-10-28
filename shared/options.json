@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "body": [
+    { "id": "round", "label": "Rond" },
+    { "id": "long", "label": "Langwerpig" }
+  ],
+  "fins": [
+    { "id": "small", "label": "Klein" },
+    { "id": "pointy", "label": "Puntig" }
+  ],
+  "pattern": [
+    { "id": "none", "label": "Geen" },
+    { "id": "stripes", "label": "Strepen" }
+  ],
+  "behavior": [
+    { "id": "calm", "label": "Rustig" },
+    { "id": "curious", "label": "Nieuwsgierig" }
+  ],
+  "size": [0.75, 1.0, 1.5],
+  "speed": [0.75, 1.0, 1.5],
+  "limits": { "nameMaxLength": 20, "makerMaxLength": 30 }
+}
