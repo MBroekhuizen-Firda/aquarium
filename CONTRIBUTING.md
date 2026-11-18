@@ -4,6 +4,23 @@ In dit project leer je hoe je bijdraagt aan een open-sourceproject met een **for
 
 ## Je eerste bijdrage: voeg je vis toe
 
+Er zijn twee routes. Met de **snelle route** stuur je je vis in vanuit de Vissenmaker, zonder iets te installeren. Met de **route met clone en branch** werk je zoals een ontwikkelaar: met Git op je eigen computer. Wil je leren samenwerken met Git, kies dan de tweede route.
+
+## Snelle route: Stuur in via GitHub
+
+Je hebt alleen een GitHub-account nodig. Log eerst in op [github.com](https://github.com).
+
+1. Ontwerp je vis in de [Vissenmaker](https://firda-software-development-drachten.github.io/aquarium/maker/).
+2. Klik op **Stuur in via GitHub**. GitHub opent een nieuw bestand in de map `fish/`, met je vis er al in.
+3. Klik op **Commit changes...** en daarna op **Propose changes**. GitHub maakt nu zelf een fork en een branch voor je.
+4. Klik op **Create pull request**. Vul het formulier in en klik nog een keer op **Create pull request**.
+
+Daarna gaat het verder zoals bij stap 8 hieronder: er draait een automatische controle en een docent bekijkt je PR.
+
+> **Privacy:** dit is een openbare repository en dus voor iedereen zichtbaar. Gebruik bij `maker` alleen je voornaam of een bijnaam.
+
+## Route met clone en branch
+
 ### 1. Fork de repository
 
 Ga naar [github.com/Firda-Software-Development-Drachten/aquarium](https://github.com/Firda-Software-Development-Drachten/aquarium) en klik rechtsboven op **Fork**. Je krijgt nu je eigen kopie van het project onder je eigen account.
